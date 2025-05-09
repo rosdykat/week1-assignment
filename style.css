@@ -65,7 +65,7 @@ body {
   display: flex;
   align-items: start;
   background-size: cover;
-  background-image: url(https://i.imgur.com/PZKLp9F.jpeg);
+  background-image: url(assets/images/amanda-ma-29KRInfrrrs-unsplash.jpg);
   height: 100vh;
   justify-content: flex-start;
   align-items: center;
@@ -161,7 +161,7 @@ body {
   align-items: start;
   background-size: cover;
   background-position: center;
-  background-image: url(https://i.imgur.com/0FMvgVA.jpeg);
+  background-image: url(assets/images/rosa-sepanta-LzHrmneJJfA-unsplash.jpg);
   height: 100vh;
   position: relative;
   top: 100%;
@@ -187,7 +187,7 @@ body {
   align-items: start;
   background-size: cover;
   background-position: center;
-  background-image: url(https://i.imgur.com/bx2IUNd.jpeg);
+  background-image: url(assets/images/aleksandra-gencheva-e9z-JEG6BDo-unsplash.jpg);
   height: 100vh;
   position: relative;
   top: 100%;
